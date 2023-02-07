@@ -12,7 +12,7 @@ user_input = input("Do You Want To Play This Quiz Game? : ")
 
 user_input = user_input.lower()
 
-if "yes" in user_input:
+if "yes" in user_input or "yep" in user_input or "yeah" in user_input:
 
 # ---------------------------------------------------------------------
 
